@@ -1,3 +1,5 @@
+![Passbolt on desktop, mobile, and cli](https://github.com/passbolt/passbolt-links/blob/main/assets/readme/passbolt-insitu.png)
+
 # Introducing Passbolt
 
 Passbolt is a security-first, open source password manager for teams. It helps organizations centralize, organize and share passwords and secrets securely.
