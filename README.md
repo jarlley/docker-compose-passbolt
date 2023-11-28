@@ -1,1 +1,1 @@
-# docker-compose-passbolt
+# docker-compose: passbolt
